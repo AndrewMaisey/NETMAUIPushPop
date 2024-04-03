@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{001B0856-2E7B-480D-A09F-0A0A7ED89884}|Default">
+  <MonoDevelop.Ide.ItemProperties.ShellNavDemo PreferredExecutionTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShellNavDemo/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ShellNavDemo/MainPage.xaml.cs" Line="32" Column="4" />
+      <File FileName="ShellNavDemo/MainPage.xaml" />
+      <File FileName="ShellNavDemo/AppShell.xaml" />
+      <File FileName="ShellNavDemo/Child1.xaml" />
+      <File FileName="ShellNavDemo/Child1OfChild1.xaml" Line="16" Column="51" />
+      <File FileName="ShellNavDemo/Child2OfChild1.xaml" />
+      <File FileName="ShellNavDemo/App.xaml.cs" />
+      <File FileName="ShellNavDemo/Child1OfChild1.xaml.cs" />
+      <File FileName="ShellNavDemo/Child2OfChild1.xaml.cs" />
+      <File FileName="ShellNavDemo/LastPage.xaml.cs" />
+      <File FileName="ShellNavDemo/Child1.xaml.cs" Line="40" Column="1" />
+      <File FileName="ShellNavDemo/Platforms/iOS/Program.cs" />
+      <File FileName="ShellNavDemo/App.xaml" />
+      <File FileName="ShellNavDemo/AppShell.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShellNavDemo" expanded="True">
+            <Node name="ShellNavDemo" expanded="True">
+              <Node name="Platforms" expanded="True">
+                <Node name="iOS" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+              <Node name="Child1.xaml" expanded="True" />
+              <Node name="Child1OfChild1.xaml" expanded="True" />
+              <Node name="Child2OfChild1.xaml" expanded="True" />
+              <Node name="LastPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_33" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/andrewmaisey/Projects/ShellNavDemo/ShellNavDemo/Child1.xaml.cs" relfile="ShellNavDemo/Child1.xaml.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="34.0.79" />
+</Properties>

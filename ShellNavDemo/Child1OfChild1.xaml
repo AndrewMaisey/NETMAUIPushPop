@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ShellNavDemo.Child1OfChild1"
+             Title="Child1OfChild1">
+    <VerticalStackLayout BackgroundColor="White">
+        <Label 
+            Text="Child 1 of Child 1"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <Button Text="Push Last Page" Clicked="LastPageClicked"/>
+
+        <Button Text="Pop Back" Clicked="BackClicked"/>
+
+        <Button Text="Goto Back" Clicked="GotoBack_Clicked"/>
+
+        <Label Text="" x:Name="NavigationStack"/>
+
+    </VerticalStackLayout>
+
+    
+</ContentPage>
